@@ -1,3 +1,1 @@
-# Hello-World
-My first step to the world of Git and what again?
-I am confused
+This is a repurpose repo for excel financial models
